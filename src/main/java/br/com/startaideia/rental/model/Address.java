@@ -19,7 +19,7 @@ public class Address {
     @Column(length = 80)
     private String street;
 
-    @Column(length = 30)
+    @Column(length = 40)
     private String district;
 
     @Column(length = 15)
